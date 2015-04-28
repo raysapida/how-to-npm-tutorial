@@ -1,6 +1,6 @@
 {
   "name": "raysapida",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "How to use npm tutorial",
   "main": "index.js",
   "scripts": {
